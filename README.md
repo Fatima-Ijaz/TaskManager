@@ -1,15 +1,25 @@
-# todo_app
+# 📋 Task Manager
 
-A new Flutter project.
+A simple and stylish Flutter-based task management application that allows you to add, view, and manage tasks with persistent storage using **Shared Preferences**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add and remove tasks easily.
+- Persistent storage (tasks remain even after closing the app).
+- Modern and clean UI.
+- Responsive design for mobile and desktop.
+- Conditional image display (image appears on desktop screens only).
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Flutter** (Dart)
+- **Shared Preferences** for local storage
+
+---
+
+## 📂 Project Structure
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
